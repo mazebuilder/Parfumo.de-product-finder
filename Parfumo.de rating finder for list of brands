@@ -53,6 +53,7 @@
     "\n",
     "    return all_perfumes\n",
     "\n",
+    #here you can insert the brands you are looking for
     "brands = [\n",
     "    \"Armaf\",\n",
     "    \"Bvlgari\",\n",
